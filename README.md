@@ -70,3 +70,37 @@ YouTube Link: https://drive.google.com/drive/u/1/folders/1u-t3VV2rjLgXD71rCuQnB1
    ```
 
 ---
+
+## 📂 Project Structure
+```
+├── Backend
+│   ├──test
+│   |   ├── tests.py
+|   ├── agents.py
+|   ├── crew_runner.py
+|   ├── generate_pdf.py
+|   ├── litellm.config.yaml
+|   ├── llm_formatting.py
+|   ├── main.py
+|   ├── pinecone_fetch.py
+|   ├── snowflake_fetch.py
+├── docker-airflow
+│   ├── dags
+│   |   ├── attractions_dag.py
+│   |   ├── hotel_scrape_dag.py
+│   |   ├── itinerary_tours_dag.py
+│   |   ├── youtube_dag.py
+|   ├── Dockerfile
+|   ├── requirements.txt
+|   ├── docker-compose.yml
+├── Frontend
+│   ├── app.py
+├── ArchitectureDiagram.png
+├── DAMG7390_FinalProject.pdf
+├── requirements.txt  
+├── Dockerfile
+├── README.md
+
+```
+
+---
