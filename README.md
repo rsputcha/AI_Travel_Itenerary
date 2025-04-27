@@ -15,7 +15,7 @@ FastApi: https://travel-planner-app-577642034601.us-central1.run.app/docs
 
 Airflow: http://34.132.144.105:8080/home
 
-YouTube Link: https://drive.google.com/drive/u/1/folders/1u-t3VV2rjLgXD71rCuQnB1LO6OAI_A1C
+YouTube Link: https://youtu.be/XWi4qtlEdCc
 
 ---
 
