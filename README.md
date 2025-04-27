@@ -1,4 +1,4 @@
-# DAMG7245_Team5_Final-Project
+# AI-Generated Travel Itinerary
 
 ## Project Overview
 
@@ -68,14 +68,5 @@ YouTube Link: https://drive.google.com/drive/u/1/folders/1u-t3VV2rjLgXD71rCuQnB1
    ```
    streamlit run streamlit_app.py
    ```
-   
----
-
-## Team Information
-| Name            | Student ID    | Contribution |
-|----------------|--------------|--------------|
-| **Pranjal Mahajan** | 002375449  | 33.33% |
-| **Srushti Patil**  | 002345025  | 33.33% |
-| **Ram Putcha**  | 002304724  | 33.33% |
 
 ---
